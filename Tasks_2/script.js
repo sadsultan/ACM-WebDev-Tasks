@@ -70,7 +70,7 @@ function showRiddle() {
 
   newRiddle.innerText = randomRiddle.question;
   riddleAnswer.innerText = randomRiddle.answer;
-  riddleAnswer.setAttribute("id", "#riddle-answer");
+  riddleAnswer.setAttribute("id", "riddle-answer");
   riddleAnswer.hidden = true;
 
   riddleContainer.appendChild(newRiddle);
