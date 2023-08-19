@@ -205,25 +205,3 @@ main {
 .player-two-score {
     background-color: #f2b147;
 }
-
-footer {
-    margin-top: 50px;
-}
-
-footer > p {
-    display: inline;
-    margin: 0 40px;
-}
-
-p > a {
-    text-decoration: none;
-    font-size: 30px;
-    color: white;
-    font-style: oblique;
-    border-bottom: 3px solid white;
-    border-radius: 25px;
-}
-
-p > a:hover {
-    color: #f2b147;
-} 
