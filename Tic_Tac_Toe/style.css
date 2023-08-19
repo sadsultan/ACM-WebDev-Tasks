@@ -71,8 +71,9 @@ main {
 }
 
 .restart-after-win {
-    padding: 2rem 3rem;
-    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 30px;
+    border-radius: 15px;
     font-size: 20px;
     background-color: #2e4756;
 }
